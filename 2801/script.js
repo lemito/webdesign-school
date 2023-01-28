@@ -13,7 +13,7 @@ const user = {
   x: 0,
   y: H / 2 - 50,
   width: 10,
-  height: 1000,
+  height: 100,
   color: "white",
   score: 0
 };
@@ -22,7 +22,7 @@ const com = {
   x: W - 10,
   y: H / 2 - 50,
   width: 10,
-  height: 1000,
+  height: 100,
   color: "white",
   score: 0
 };
